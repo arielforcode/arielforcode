@@ -1,5 +1,5 @@
 ### Hi, My name is Angel Ariel Camargo 👋🚀💻
-## Freelance full-stack & Android developer
+## Freelance full-stack, Android developer & BackEnd Developer
 
 I am passionate about technology, I really like to learn and see new things in terms of new advances in technologies and frameworks, I have 4 years of experience developing web systems such as Android mobile applications.
 
